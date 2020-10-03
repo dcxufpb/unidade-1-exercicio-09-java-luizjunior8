@@ -257,5 +257,4 @@ public class TestLoja {
 			assertEquals(mensagemEsperada, e.getMessage());
 		}
 	}
-
 }

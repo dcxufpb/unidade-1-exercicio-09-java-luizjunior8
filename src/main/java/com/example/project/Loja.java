@@ -156,5 +156,4 @@ public class Loja {
 		 _cnpj + Spacer +
 		 _inscricao_estadual + Spacer);
 	}
-
 }
